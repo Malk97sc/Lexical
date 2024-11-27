@@ -130,5 +130,3 @@ The lexical analyzer operates in the following steps:
 
 4. **Output**  
    Once tokens are recognized, they are output with their corresponding types and values. Invalid tokens are flagged with error messages.
-
-Happy coding and evaluating! 🎉
