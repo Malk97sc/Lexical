@@ -131,21 +131,4 @@ The lexical analyzer operates in the following steps:
 4. **Output**  
    Once tokens are recognized, they are output with their corresponding types and values. Invalid tokens are flagged with error messages.
 
-
-## 🤝 Contributions
-
-Want to improve the evaluator or add new features? Here's how you can contribute:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Commit your changes and submit a pull request.
-
-Your contributions are always welcome!
-
-## 📜 License
-
-This project is licensed under the **MIT License**. You are free to use, modify, and distribute the code, as long as proper credit is given. See the [LICENSE](LICENSE) file for more details.
-
----
-
 Happy coding and evaluating! 🎉
