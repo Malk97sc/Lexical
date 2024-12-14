@@ -1,7 +1,7 @@
 
 # Lexical Analyzer in C
 
-Welcome to the **lexical analyzer simplified** written in C that processes an input file and identifies various types of tokens: keywords, identifiers, numeric constants, delimiters, operators, and string literals. It also handles basic errors related to invalid or incomplete tokens.
+**Lexical analyzer simplified** written in C that processes an input file and identifies various types of tokens: keywords, identifiers, numeric constants, delimiters, operators, and string literals. It also handles basic errors related to invalid or incomplete tokens.
 
 ## 👾 Features
 This file contains the implementation of the lexical analyzer. The program uses specific functions to recognize and process different token types in an input file. Key features include:
