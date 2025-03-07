@@ -3,7 +3,7 @@
 
 **Lexical analyzer simplified** written in C that processes an input file and identifies various types of tokens: keywords, identifiers, numeric constants, delimiters, operators, and string literals. It also handles basic errors related to invalid or incomplete tokens.
 
-## 👾 Features
+## Features
 This file contains the implementation of the lexical analyzer. The program uses specific functions to recognize and process different token types in an input file. Key features include:
 
 - **Input File Reading:** The `readFile` function reads the content of a file and stores it in memory for analysis.
@@ -19,7 +19,7 @@ This file contains the implementation of the lexical analyzer. The program uses 
   - DFA for identifiers and variables (`stateVar`).
 - **Error Detection:** The program identifies and displays error messages for invalid or improperly formatted tokens.
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these simple steps to install, compile, and run the program.
 
@@ -45,7 +45,7 @@ Execute the program with an input file:
 ./analyzer prueba.c
 ```
 
-## 🔍 Examples
+## Examples
 
 Here are some examples of input and the corresponding output from the lexical analyzer:
 
