@@ -110,7 +110,7 @@ TOKEN (NUMBER): 0
 TOKEN (SEMI): ;
 TOKEN (RBRACE): }
 ```
-## 🛠️ How It Works  
+##How It Works  
 
 The lexical analyzer operates in the following steps:  
 
